@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Courier, monospace;
+}
+
+h1 {
+    background-color: blue;
+    color: red;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 2.0;
+    letter-spacing: 10px;
+}
+
+ul {
+    background-color: green;
+}
+
+a {
+    text-decoration: none;
+}
